@@ -42,3 +42,8 @@ J'ai géré uniquement les liens provenant de youtube: Pour ajouter un lien de y
 
 Exemple: Pour ajouter ce film de vandamme, le lien à selectionner est entouré en rouge.
 ![film](https://user-images.githubusercontent.com/37876517/41480636-55fe7b60-70cf-11e8-98d3-be6f37492396.JPG)
+
+
+Pour rechercher un film, il suffit de renseigner le champs de recherche.
+![capture3](https://user-images.githubusercontent.com/37876517/41480858-1c499ea8-70d0-11e8-9112-dc94620c5c5d.JPG)
+
